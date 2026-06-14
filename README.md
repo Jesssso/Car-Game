@@ -16,7 +16,9 @@ Car World is an open-world car simulation and action game where players can expl
 ## Gameplay
 
 Players can earn money, purchase new cars, drive across the map, complete activities, and engage with NPCs throughout the world. Administrators have access to special commands and controls to manage the game and enhance the player experience.
-------------X------------X------------X------------X------------X------------X------------X------------X------------X------------X------------X------------X------------X------------X------------X------------X------------X------------X------------X----------
+
+------------X------------X------------X------------X------------X------------X------------X------------X------------X------------X------------X
+
 The game is made using HTML.
 
 I will be adding more games using JavaScript, Python, C and C++ etc.
